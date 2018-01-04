@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2017-11-02 18:49:18 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-11-02 18:43:38 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "witch": "2017-11-02 18:46:37 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "witch": "2017-11-02 18:46:37 +0330",
+      "enderman": "2017-11-02 18:49:52 +0330"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2017-11-02 18:37:36 +0330",
+      "taiga": "2017-11-02 18:30:33 +0330"
+    },
+    "done": false
+  }
+}

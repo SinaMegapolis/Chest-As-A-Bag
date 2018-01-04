@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2017-11-02 19:52:50 +0330",
+      "taiga": "2017-11-02 19:43:56 +0330"
+    },
+    "done": false
+  }
+}

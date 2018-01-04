@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2017-11-03 12:55:00 +0330",
+      "cold_beach": "2017-11-03 12:56:10 +0330"
+    },
+    "done": false
+  }
+}
