@@ -31,9 +31,9 @@ import java.util.List;
 public class ModRegistry  {
     public static final List<Block> BLOCKS = new ArrayList<Block>();
     public static final List<Item> ITEMS = new ArrayList<Item>();
-    public static final Item HAMMER = new ItemHammer("caab_item_hammer");
+    public static final Item HAMMER = new ItemHammer("item_hammer");
     public static final Block SampleCAAB = new BlockChestAsABag("caab_block");
-    public static final Item CopperNail = new ItemNail("caab_item_nail");
+    public static final Item CopperNail = new ItemNail("item_nail");
     public static final TileEntityChestAsABag CAAB_TileEntitySample = new TileEntityChestAsABag();
 
     @SubscribeEvent
