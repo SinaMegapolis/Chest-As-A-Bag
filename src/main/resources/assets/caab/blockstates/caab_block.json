@@ -1,0 +1,13 @@
+{
+	"forge_marker": 1,
+"variants": {
+	"facing=north": { "model": "caab:testcaab" },
+	"facing=south": { "model": "caab:testcaab", "y": 180 },
+	"facing=west":  { "model": "caab:testcaab", "y": 270 },
+	"facing=east":  { "model": "caab:testcaab", "y": 90 },
+		"inventory": {
+			"model": "caab:testcaab",
+			"transform": "forge:default-block"
+		}
+	}
+}
