@@ -11,9 +11,9 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 //Only edit below this line, the above code adds and enables the necessary things for Forge to be setup.
 
 
-version = "alpha0.0.1"
-group = "net.sinamegapolis.thecaab" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "thecaab-1.12"
+version = "indev0.1"
+group = "net.sinamegapolis.caab" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "caab"
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {

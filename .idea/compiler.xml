@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/src/main/java/net/sinamegapolis/thecaab/caabs/tileentities/CAABTESR.java" />
-    </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -22,12 +19,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="The_CAAB_api" target="1.8" />
-      <module name="The_CAAB_main" target="1.8" />
-      <module name="The_CAAB_test" target="1.8" />
-      <module name="TheCAAB_api" target="1.8" />
-      <module name="TheCAAB_main" target="1.8" />
-      <module name="TheCAAB_test" target="1.8" />
+      <module name="Chest_As_A_Bag_api" target="1.8" />
+      <module name="Chest_As_A_Bag_main" target="1.8" />
+      <module name="Chest_As_A_Bag_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
