@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest As A Bag.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest As A Bag.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest_As_A_Bag_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest_As_A_Bag_api.iml" group="Chest As A Bag" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest_As_A_Bag_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest_As_A_Bag_main.iml" group="Chest As A Bag" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest_As_A_Bag_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest_As_A_Bag_test.iml" group="Chest As A Bag" />
+      <module fileurl="file://$PROJECT_DIR$/Chest-As-A-Bag.iml" filepath="$PROJECT_DIR$/Chest-As-A-Bag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest-As-A-Bag_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest-As-A-Bag_api.iml" group="Chest-As-A-Bag" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest-As-A-Bag_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest-As-A-Bag_main.iml" group="Chest-As-A-Bag" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chest-As-A-Bag_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Chest-As-A-Bag_test.iml" group="Chest-As-A-Bag" />
     </modules>
   </component>
 </project>

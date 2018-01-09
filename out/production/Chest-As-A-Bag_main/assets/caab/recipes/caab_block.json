@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"NWN",
+		"WHW",
+		"NWN"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:planks",
+			"data": 1
+		},
+		"N": {
+			"item": "caab:item_nail"
+		},
+		"H": {
+			"item": "caab:item_hammer"
+		}
+	},
+	"result": {
+		"item": "caab:caab_blcok"
+	}
+}
