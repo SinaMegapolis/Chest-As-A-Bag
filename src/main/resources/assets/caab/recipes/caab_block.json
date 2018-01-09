@@ -11,10 +11,10 @@
 			"data": 1
 		},
 		"N": {
-			"item": "caab:caab_item_nail"
+			"item": "caab:item_nail"
 		},
 		"H": {
-			"item": "caab:caab_item_hammer"
+			"item": "caab:item_hammer"
 		}
 	},
 	"result": {

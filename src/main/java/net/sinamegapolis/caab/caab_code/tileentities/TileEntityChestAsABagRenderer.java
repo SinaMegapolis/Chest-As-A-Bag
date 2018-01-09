@@ -1,11 +1,20 @@
 package net.sinamegapolis.caab.caab_code.tileentities;
 
+<<<<<<< HEAD
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.Tessellator;
 import net.minecraft.client.renderer.block.model.IBakedModel;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+=======
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.renderer.GlStateManager;
+import net.minecraft.client.renderer.Tessellator;
+import net.minecraft.client.renderer.block.model.IBakedModel;
+import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer;
+>>>>>>> master
 import net.sinamegapolis.caab.caab_code.blocks.BlockChestAsABag;
 import net.sinamegapolis.caab.init.ModRegistry;
 import net.sinamegapolis.caab.utill.CustomModelRegistry;

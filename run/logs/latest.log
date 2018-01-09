@@ -1,16 +1,99 @@
-[18:11:19] [main/INFO]: Setting user: Player681
-[18:11:26] [main/WARN]: Skipping bad option: lastServer:
-[18:11:26] [main/INFO]: LWJGL Version: 2.9.4
-[18:11:35] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Chest As A Bag, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Flat Colored Blocks, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At
-[18:11:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[18:11:47] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[18:11:47] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[18:11:48] [Thread-6/INFO]: OpenAL initialized.
-[18:11:48] [Sound Library Loader/INFO]: Sound engine started
-[18:11:58] [main/INFO]: Created: 512x512 textures-atlas
-[18:12:05] [main/WARN]: Skipping bad option: lastServer:
-[18:12:05] [main/INFO]: Narrator library for x64 successfully loaded
-[18:12:07] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[18:12:22] [main/INFO]: Stopping!
-[18:12:22] [main/INFO]: SoundSystem shutting down...
-[18:12:22] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[11:34:24] [main/INFO]: Setting user: Player811
+[11:34:29] [main/WARN]: Skipping bad option: lastServer:
+[11:34:29] [main/INFO]: LWJGL Version: 2.9.4
+[11:34:37] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Chest As A Bag, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Flat Colored Blocks, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At
+[11:34:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:34:49] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[11:34:49] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:34:50] [Thread-6/INFO]: OpenAL initialized.
+[11:34:50] [Sound Library Loader/INFO]: Sound engine started
+[11:34:59] [main/INFO]: Created: 512x512 textures-atlas
+[11:35:06] [main/WARN]: Skipping bad option: lastServer:
+[11:35:06] [main/INFO]: Narrator library for x64 successfully loaded
+[11:35:09] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[11:35:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[11:35:29] [Server thread/INFO]: Generating keypair
+[11:35:32] [Server thread/INFO]: Loaded 488 advancements
+[11:35:33] [Server thread/INFO]: Preparing start region for level 0
+[11:35:34] [Server thread/INFO]: Preparing spawn area: 0%
+[11:35:35] [Server thread/INFO]: Preparing spawn area: 45%
+[11:35:36] [Server thread/INFO]: Changing view distance to 13, from 10
+[11:35:40] [Server thread/INFO]: Player811[local:E:a454c082] logged in with entity id 199 at (636.9591505126474, 70.0, 57.50170510262148)
+[11:35:40] [Server thread/INFO]: Player811 joined the game
+[11:35:42] [Server thread/INFO]: Saving and pausing game...
+[11:35:42] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/overworld
+[11:35:43] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/the_nether
+[11:35:43] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/the_end
+[11:35:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2644ms behind, skipping 52 tick(s)
+[11:35:43] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@6a0215ef[id=004652a1-10cb-3d6a-84b1-92d0322911a0,name=Player811,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3190) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_101]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_101]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_101]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+[11:35:44] [Server thread/INFO]: Saving and pausing game...
+[11:35:44] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/overworld
+[11:35:44] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/the_nether
+[11:35:44] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/the_end
+[11:35:45] [main/INFO]: Loaded 22 advancements
+[11:36:58] [Server thread/INFO]: Stopping server
+[11:36:58] [Server thread/INFO]: Saving players
+[11:36:58] [Server thread/INFO]: Player811 lost connection: Disconnected
+[11:36:58] [Server thread/INFO]: Player811 left the game
+[11:36:58] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[11:36:58] [Server thread/INFO]: Saving worlds
+[11:36:58] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/overworld
+[11:36:58] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/the_nether
+[11:36:58] [Server thread/INFO]: Saving chunks for level 'Maw it's a test'/the_end
+[11:37:00] [main/FATAL]: Reported exception thrown!
+net.minecraft.util.ReportedException: Tesselating block model
+	at net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher.render(TileEntityRendererDispatcher.java:168) ~[TileEntityRendererDispatcher.class:?]
+	at net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher.render(TileEntityRendererDispatcher.java:133) ~[TileEntityRendererDispatcher.class:?]
+	at net.minecraft.client.renderer.RenderGlobal.renderEntities(RenderGlobal.java:732) ~[RenderGlobal.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.renderWorldPass(EntityRenderer.java:1398) ~[EntityRenderer.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.renderWorld(EntityRenderer.java:1312) ~[EntityRenderer.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1115) ~[EntityRenderer.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1207) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:441) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_101]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_101]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_101]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_101]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_101]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_101]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_101]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_101]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 4
+	at net.minecraftforge.client.model.pipeline.VertexLighterFlat.processQuad(VertexLighterFlat.java:217) ~[VertexLighterFlat.class:?]
+	at net.minecraftforge.client.model.pipeline.QuadGatheringTransformer.put(QuadGatheringTransformer.java:63) ~[QuadGatheringTransformer.class:?]
+	at net.minecraftforge.client.model.pipeline.LightUtil.putBakedQuad(LightUtil.java:127) ~[LightUtil.class:?]
+	at net.minecraft.client.renderer.block.model.BakedQuad.pipe(BakedQuad.java:70) ~[BakedQuad.class:?]
+	at net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer.render(ForgeBlockModelRenderer.java:138) ~[ForgeBlockModelRenderer.class:?]
+	at net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer.renderModelSmooth(ForgeBlockModelRenderer.java:103) ~[ForgeBlockModelRenderer.class:?]
+	at net.minecraft.client.renderer.BlockModelRenderer.renderModel(BlockModelRenderer.java:47) ~[BlockModelRenderer.class:?]
+	at net.minecraft.client.renderer.BlockModelRenderer.renderModel(BlockModelRenderer.java:38) ~[BlockModelRenderer.class:?]
+	at net.sinamegapolis.caab.caab_code.tileentities.TileEntityChestAsABagRenderer.render(TileEntityChestAsABagRenderer.java:22) ~[TileEntityChestAsABagRenderer.class:?]
+	at net.sinamegapolis.caab.caab_code.tileentities.TileEntityChestAsABagRenderer.render(TileEntityChestAsABagRenderer.java:15) ~[TileEntityChestAsABagRenderer.class:?]
+	at net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher.render(TileEntityRendererDispatcher.java:161) ~[TileEntityRendererDispatcher.class:?]
+	... 20 more

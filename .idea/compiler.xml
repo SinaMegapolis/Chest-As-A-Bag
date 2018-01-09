@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <resourceExtensions />
-    <wildcardResourcePatterns>
-      <entry name="!?*.java" />
-      <entry name="!?*.form" />
-      <entry name="!?*.class" />
-      <entry name="!?*.groovy" />
-      <entry name="!?*.scala" />
-      <entry name="!?*.flex" />
-      <entry name="!?*.kt" />
-      <entry name="!?*.clj" />
-      <entry name="!?*.aj" />
-    </wildcardResourcePatterns>
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Chest_As_A_Bag_api" target="1.8" />
-      <module name="Chest_As_A_Bag_main" target="1.8" />
-      <module name="Chest_As_A_Bag_test" target="1.8" />
+      <module name="Chest-As-A-Bag_api" target="1.8" />
+      <module name="Chest-As-A-Bag_main" target="1.8" />
+      <module name="Chest-As-A-Bag_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
